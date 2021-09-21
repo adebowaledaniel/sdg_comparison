@@ -1,0 +1,14 @@
+Output from SDG Indicator Sepal:
+    Indicator_15_3_1_merge
+    Land cover merge
+    productivity merge
+    soc_merge
+
+Output from Trend.Earth:
+    SOC degradation 
+    Land cover degradation
+    Producitivity state degradation
+    Productivity performance degradation
+    Productivity trajectory degradation
+    
+    
