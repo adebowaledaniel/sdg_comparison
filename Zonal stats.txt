@@ -1,0 +1,41 @@
+Sepal 
+- Jigawa
+- - Landsat
+[{'Degraded': 1736.001, 'Stable': 21407.891, 'Improved': 681.382},SDG_indicator
+ {'Degraded': 21.504, 'Stable': 23766.044, 'Improved': 48.352},
+ {'Degraded': 1695.612, 'Stable': 21436.658, 'Improved': 665.43},
+ {'Degraded': 35.986, 'Stable': 23758.241, 'Improved': 5.036}]
+ 
+ -- Modis 
+ [{'Degraded': 646.407, 'Stable': 14458.896, 'Improved': 8890.627},SDG_indicator
+ {'Degraded': 21.397, 'Stable': 23937.708, 'Improved': 48.463},LC
+ {'Degraded': 599.183, 'Stable': 14488.039, 'Improved': 8881.052},Productivity
+ {'Degraded': 35.959, 'Stable': 23928.722, 'Improved': 5.097}]SOC
+ 
+- Bauchi
+- - Modis
+[{'Degraded': 9076.795, 'Stable': 39382.868, 'Improved': 367.741},SDG_indicator
+ {'Degraded': 63.195, 'Stable': 48649.027, 'Improved': 131.828},
+ {'Degraded': 9023.652, 'Stable': 39494.6, 'Improved': 276.761},
+ {'Degraded': 58.712, 'Stable': 48734.487, 'Improved': 0.73}]
+ 
+ 
+Trends Earth
+Sub-Indicators
+- Jigawa
+[{'Degraded': 45.657, 'Stable': 15034.029, 'Improved': 31.972},
+ {'Degraded': 583.556, 'Stable': 5570.455, 'Improved': 8957.647},
+ {'Degraded': 9.083, 'Stable': 15096.157}]
+
+- Bauchi 
+[{'Degraded': 136.833, 'Stable': 48643.951, 'Improved': 234.37},
+ {'Degraded': 5053.474, 'Stable': 23013.628, 'Improved': 20948.053},
+ {'Degraded': 39.479, 'Stable': 48923.057}]
+ 
+SDG Indicator
+Jigawa
+{'Degraded': 6077.774, 'Stable': 12746.734, 'Improved': 5139.374}
+Bauchi
+{'Degraded': 24672.737, 'Stable': 16663.814, 'Improved': 7616.879}
+
+
