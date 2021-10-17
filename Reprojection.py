@@ -8,7 +8,6 @@ def reprojection(srcPath, dst_crs):
     Majorly for multiple rasters reprojection, although it can also be used for one raster.
     Parameter:
     srcPath: folder path to the raster to be projected.
-    dstPath: follder path to sabe the projected files.
     dst_crs: desired CRS e.g. dst = 'EPSG:26332'.
     """
     
